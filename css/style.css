@@ -1,0 +1,27 @@
+.card_text_info {
+    width: 60%;
+}
+
+.nav_section {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.nav__list__item {
+    font-size: 18px;
+}
+
+.nav__list__item__link {
+    text-decoration: underline;
+}
+
+.sign_up {
+    border-radius: 5px;
+}
+
+.footer_image {
+    border-radius: 50%;
+}
+
+.footer_list {
+    color: black;  
+}
